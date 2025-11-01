@@ -1,5 +1,5 @@
 (function checkDataTypes() {
-  const sampleString = 'Asabeneh';
+  const sampleString = 'Bohdan';
   const sampleNumber = 5;
   const sampleBoolean = true;
   const sampleNull = null;
